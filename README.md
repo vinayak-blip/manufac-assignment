@@ -11,9 +11,15 @@ Afterwards, the component calculates the "Gamma" property for each data point an
 
 
 Build the Project:
+
 for installing the node-modules according to package.json
+
 #npm install
+
 If the project uses a build system, you may need to build the project before running it. Run:
+
 #npm run build
+
 Run/Start the Project:
+
 #npm start
