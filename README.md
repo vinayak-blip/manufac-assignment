@@ -8,3 +8,12 @@ The component begins by rendering a table for the original wine dataset. This ta
 
 Class-wise Statistics of "Gamma" Table:
 Afterwards, the component calculates the "Gamma" property for each data point and computes class-wise statistics, including the mean, median, and mode of "Gamma" for each alcohol class. This information is then displayed in a separate table, providing insights into how the calculated "Gamma" property varies across different alcohol classes.
+
+
+Build the Project:
+for installing the node-modules according to package.json
+#npm install
+If the project uses a build system, you may need to build the project before running it. Run:
+#npm run build
+Run/Start the Project:
+#npm start
