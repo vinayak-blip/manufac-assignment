@@ -1,5 +1,4 @@
-![image](https://github.com/vinayak-blip/manufac-assignment/assets/65493435/92f8eb25-37d5-4c9c-b6db-892a9c67d98e)
-
+![image](https://github.com/vinayak-blip/manufac-assignment/assets/65493435/7bf14c67-128b-4403-8cf7-551af692c559)
 
 This React component, WineStatsTableWithGamma, is designed to visualize data from a wine dataset. The dataset consists of various properties for different wine samples, including "Ash," "Hue," "Magnesium," and an additional property, "Gamma," which is calculated based on the formula (Ash * Hue) / Magnesium.
 
